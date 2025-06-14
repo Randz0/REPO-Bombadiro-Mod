@@ -1,9 +1,5 @@
 <h1>README</h1>
 
-<h2>The Mod</h2>
-
-Replaces the REPO Head Man Enemy with bombadiro crocodilo including some blessed audio to go alongside
-
 <h2>How To Build</h2>
 
 In order to build this project simply have dotnet installed, (created with version 9.0.200 however I have not checked if it's compatible with earlier versions).
